@@ -3,12 +3,41 @@
     <title>Portafolio</title>
     <link href="https://niri08.github.io/portafolio/feed.xml" rel="self" />
     <link href="https://niri08.github.io/portafolio" />
-    <updated>2026-05-13T05:00:25-05:00</updated>
+    <updated>2026-05-13T05:41:46-05:00</updated>
     <author>
         <name>Sara Pardo</name>
     </author>
     <id>https://niri08.github.io/portafolio</id>
 
+    <entry>
+        <title>Salsa, nostalgia y amor</title>
+        <author>
+            <name>Sara Pardo</name>
+        </author>
+        <link href="https://niri08.github.io/portafolio/fanzine.html"/>
+        <id>https://niri08.github.io/portafolio/fanzine.html</id>
+            <category term="Diseño gráfico"/>
+            <category term="Arte"/>
+
+        <updated>2026-05-13T05:17:57-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Para la clase de Arte y Comunicación dentro de la Universidad de&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Para la clase de <em>Arte y Comunicación</em> dentro de la Universidad de Los Andes, se requería realizar un fanzine de manera individual de un tema libre. Precisamente, quise plasmar la nostalgia y el amor que se activa al bailar y al recordar momentos en que las personas bailan salsa con otras personas. </p>
+<p>Se implementa una colorimetría cálida predominante en la que protagonizan los colores amarillo, naranja y rojo que evocan sentimientos como la alegría y el amor que se activan al momento de bailar, conectar y compartir con personas que queremos debido a la liberación de endorfinas y a que el estrés se reduce considerablemente. La conexión social y los estímulos sensoriales permiten a las personas guardar con cierta emoción momentos como estos. Precisamente, al recordar momentos que nos conectan con los demás a través del baile trae a la mente, cuerpo y corazón las gratas emociones de dichos momente. El no poder vivir tal cual esa experiencia nuevamente trae la nostalgia y trsiteza que se contrastan a través de colores azules sutiles y un filtro suave ene las imágenes.</p>
+<p>Para la elaboración de este Fanzine me reuní con mis amigos para ir a bailar salsa en unn bar llamado <em>El goce pagano</em>, aquí todos disfrutamos y nos divertimos bastnte. Pero, al momento de ponerme a crear a partir de los registros y de las emociones que quedé tras ese encuentro, me encontré con una nostalgía que recordé con amor al haber disfrutado de un tiempo grato con ellos, lo que justamente me llevó a querer plasmar mis emociones y recuerdos allí. </p>
+<p>Al fin y al cabo, dentro de cada persona está la elección de cómo recordar situaciones que estuvieron llenas de alegrías, pero por ciertas razónes, no se puede vivir de nuevo. La decisión de evocar recuerdos con este género musical puede llamar la nostalgia y el amor, en varios casos, más una que la otra.</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://niri08.github.io/portafolio/media/posts/5/gallery/Impriir-salsa.png" data-size="1123x794"><img loading="lazy" src="https://niri08.github.io/portafolio/media/posts/5/gallery/Impriir-salsa-thumbnail.png" alt="" width="768" height="543"></a></figure>
+<figure class="gallery__item"><a href="https://niri08.github.io/portafolio/media/posts/5/gallery/otro-ladopng.png" data-size="3508x2480"><img loading="lazy" src="https://niri08.github.io/portafolio/media/posts/5/gallery/otro-ladopng-thumbnail.png" alt="" width="768" height="543"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Glow up</title>
         <author>
@@ -17,6 +46,7 @@
         <link href="https://niri08.github.io/portafolio/glow-up.html"/>
         <id>https://niri08.github.io/portafolio/glow-up.html</id>
         <media:content url="https://niri08.github.io/portafolio/media/posts/4/image-14.png" medium="image" />
+            <category term="Arte"/>
 
         <updated>2026-05-13T04:59:25-05:00</updated>
             <summary type="html">
@@ -67,6 +97,7 @@
         <link href="https://niri08.github.io/portafolio/huevos-pio-pa.html"/>
         <id>https://niri08.github.io/portafolio/huevos-pio-pa.html</id>
         <media:content url="https://niri08.github.io/portafolio/media/posts/3/WhatsApp-Image-2026-03-23-at-12.30.51-AM-2.jpeg" medium="image" />
+            <category term="Diseño gráfico"/>
 
         <updated>2026-05-13T04:55:06-05:00</updated>
             <summary type="html">
@@ -149,6 +180,7 @@
         <link href="https://niri08.github.io/portafolio/grabados-patrimoniales.html"/>
         <id>https://niri08.github.io/portafolio/grabados-patrimoniales.html</id>
         <media:content url="https://niri08.github.io/portafolio/media/posts/2/grabados-patrimonio.jpeg" medium="image" />
+            <category term="Arte"/>
 
         <updated>2026-05-12T23:20:55-05:00</updated>
             <summary type="html">
