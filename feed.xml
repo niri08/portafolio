@@ -3,12 +3,38 @@
     <title>Portafolio</title>
     <link href="https://niri08.github.io/portafolio/feed.xml" rel="self" />
     <link href="https://niri08.github.io/portafolio" />
-    <updated>2026-05-13T05:49:09-05:00</updated>
+    <updated>2026-05-25T23:41:19-05:00</updated>
     <author>
         <name>Sara Pardo</name>
     </author>
     <id>https://niri08.github.io/portafolio</id>
 
+    <entry>
+        <title>Reels sobre museos</title>
+        <author>
+            <name>Sara Pardo</name>
+        </author>
+        <link href="https://niri08.github.io/portafolio/reels-sobre-museos.html"/>
+        <id>https://niri08.github.io/portafolio/reels-sobre-museos.html</id>
+        <media:content url="https://niri08.github.io/portafolio/media/posts/6/Captura-de-pantalla-2026-05-25-232355.png" medium="image" />
+            <category term="Cmposiciones audiovisuales"/>
+
+        <updated>2026-05-25T23:29:44-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://niri08.github.io/portafolio/media/posts/6/Captura-de-pantalla-2026-05-25-232355.png" alt="" />
+                    Para un trabajo de Arte y Comunicación se realizó dos reels siguiendo&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://niri08.github.io/portafolio/media/posts/6/Captura-de-pantalla-2026-05-25-232355.png" class="type:primaryImage" alt="" /></p>
+                <p>Para un trabajo de Arte y Comunicación se realizó dos reels siguiendo el formato de <strong>Crítica o comentario a piezas o exposiciones artísticas</strong>. Frente a esta decisión, creé una serie de videos acerca de dos exposiciones que actualmente están ubicadas en el MAMU (Museo de Arte Miguel Urrutia), una sobre las obras de Francis Alys y otra llamada <em>Digna Rabia.</em> </p>
+<p>Videos:</p>
+<div class="post__iframe"><iframe width="383" height="680" src="https://www.youtube.com/embed/rmNzDDKzzl8" title="Francis Alys en el MAMU!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div> <div class="post__iframe"><iframe loading="lazy" width="383" height="680" src="https://www.youtube.com/embed/oSsD4HXNQdA" title="Exposición temporal Digna Rabia!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Salsa, nostalgia y amor</title>
         <author>
@@ -38,6 +64,7 @@
 <figure class="gallery__item"><a href="https://niri08.github.io/portafolio/media/posts/5/gallery/Impriir-salsa.png" data-size="1123x794"><img loading="lazy" src="https://niri08.github.io/portafolio/media/posts/5/gallery/Impriir-salsa-thumbnail.png" alt="" width="768" height="543"></a></figure>
 <figure class="gallery__item"><a href="https://niri08.github.io/portafolio/media/posts/5/gallery/otro-ladopng.png" data-size="3508x2480"><img loading="lazy" src="https://niri08.github.io/portafolio/media/posts/5/gallery/otro-ladopng-thumbnail.png" alt="" width="768" height="543"></a></figure>
 </div></div>
+<div class="post__iframe"><iframe loading="lazy" width="383" height="680" src="https://www.youtube.com/embed/Prrxnp1Mf-4" title="Fanzine &quot;Salsa, nostalgia y amor&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -246,6 +273,9 @@
 <figure class="gallery__item"><a href="https://niri08.github.io/portafolio/media/posts/2/gallery/WhatsApp-Image-2026-03-01-at-12.27.30-AM.jpeg" data-size="1424x1162"><img loading="lazy" src="https://niri08.github.io/portafolio/media/posts/2/gallery/WhatsApp-Image-2026-03-01-at-12.27.30-AM-thumbnail.jpeg" alt="" width="768" height="627"></a></figure>
 <figure class="gallery__item"><a href="https://niri08.github.io/portafolio/media/posts/2/gallery/WhatsApp-Image-2026-02-26-at-10.04.02-PM.jpeg" data-size="623x683"><img loading="lazy" src="https://niri08.github.io/portafolio/media/posts/2/gallery/WhatsApp-Image-2026-02-26-at-10.04.02-PM-thumbnail.jpeg" alt="" width="623" height="683"></a></figure>
 <figure class="gallery__item"><a href="https://niri08.github.io/portafolio/media/posts/2/gallery/grabadoss.jpeg" data-size="1200x1600"><img loading="lazy" src="https://niri08.github.io/portafolio/media/posts/2/gallery/grabadoss-thumbnail.jpeg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://niri08.github.io/portafolio/media/posts/2/gallery/WhatsApp-Image-2026-05-13-at-6.19.36-AM.jpeg" data-size="1280x960"><img loading="lazy" src="https://niri08.github.io/portafolio/media/posts/2/gallery/WhatsApp-Image-2026-05-13-at-6.19.36-AM-thumbnail.jpeg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://niri08.github.io/portafolio/media/posts/2/gallery/WhatsApp-Image-2026-05-13-at-6.19.02-AM.jpeg" data-size="1280x960"><img loading="lazy" src="https://niri08.github.io/portafolio/media/posts/2/gallery/WhatsApp-Image-2026-05-13-at-6.19.02-AM-thumbnail.jpeg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://niri08.github.io/portafolio/media/posts/2/gallery/WhatsApp-Image-2026-05-13-at-6.19.01-AM.jpeg" data-size="1280x960"><img loading="lazy" src="https://niri08.github.io/portafolio/media/posts/2/gallery/WhatsApp-Image-2026-05-13-at-6.19.01-AM-thumbnail.jpeg" alt="" width="768" height="576"></a></figure>
 </div></div>
             ]]>
         </content>
